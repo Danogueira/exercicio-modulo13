@@ -1,0 +1,75 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: rgb(238, 175, 3);
+    color: black; 
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: rgb(238, 175, 3);
+}
+
+.container img {
+    width: 200px;
+}
+
+.carousel img {
+    width: 100vw;
+}
+
+.text-colored {
+    color: rgb(238, 175, 3);
+}
+
+.teste {
+    background-color: rgb(231, 229, 229);
+}
+
+.valores {
+    display: flex;
+    color: green;
+}
+
+.ladodaimagem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-planos .nav-link.active,
+#fale-conosco button {
+    background-color: rgb(238, 175, 3);
+    color: rgb(22, 22, 21);
+}
+
+
+#cabecalho .nav .nav-link.active {
+    background-color: rgb(238, 175, 3);
+    color: #070707;
+}
+
+.escuro {
+   background-color: #5e5c53;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}  
+
+.social-links a {
+    text-decoration: none;
+}
